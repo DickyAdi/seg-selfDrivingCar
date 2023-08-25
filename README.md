@@ -1,5 +1,3 @@
-# PyTorch
-
-Last updated: Sep 27th 2022
-
-This is the GitHub repository that acts as the default Workspace for Paperspace Gradient's PyTorch runtime.
+# UNet Semantic Segmentation on City Scape Dataset
+## By Dicky Adi
+This repository was created in order to full fill Indonesia AI requirement for the third project
